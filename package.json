@@ -1,0 +1,19 @@
+{
+  "name": "alche-clone",
+  "version": "1.0.0",
+  "description": "Full clone of Alche, Inc creative studio website (https://alche.studio/)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "alche",
+    "threejs",
+    "webgl",
+    "metaverse",
+    "unreal-engine"
+  ],
+  "author": "",
+  "license": "ISC"
+}
